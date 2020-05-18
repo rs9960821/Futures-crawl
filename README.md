@@ -3,6 +3,7 @@
 
 可在Jupyter中輸入欲顯示的到期租約編號，並繪製出最高最低價走勢、漲跌比較、3日移動平均線、K線圖以及成交量。
 
+
 運用技術：Python, Scrapy, Pandas, matplotlib, Numpy, Json
 
 開發工具：Jupyter Notebook, VS Code 
